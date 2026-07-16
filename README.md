@@ -25,10 +25,6 @@ Decrypting with key `apple` gives garbage.
 
 ## How to run
 
-```
-python3 emoji_cipher.py
-```
-
 Then pick from the menu:
 
 1. **Encrypt** — type a message, get emoji back (optionally saved to
