@@ -3,7 +3,7 @@
 My Code in Place final project: a substitution cipher that encrypts
 messages into emoji.
 
-![alt text](emoji-cypher-1.png)
+![Emoji Cipher running in the terminal](emoji-cypher-1.png)
 
 ## How it works
 
