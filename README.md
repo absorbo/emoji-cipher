@@ -3,6 +3,8 @@
 My Code in Place final project: a substitution cipher that encrypts
 messages into emoji.
 
+![alt text](emoji-cypher-1.png)
+
 ## How it works
 
 - Every letter, digit, and space is mapped to one of 37 emoji.
